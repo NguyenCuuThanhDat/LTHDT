@@ -1,0 +1,8 @@
+public class bai1 {
+    public static void main(String[] args) {
+        Scanner sc= new Scanner(System.in);
+        System.out.println("Nhap ho ten cua ban:");
+        String hoten = sc.nextLine();
+        System.out.println("Hello " + hoten);
+    }
+}
